@@ -1,0 +1,2 @@
+// printf(/"helloworld"/);
+// printf('%%%%')
